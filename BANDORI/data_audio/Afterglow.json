@@ -1,0 +1,968 @@
+[
+    {
+        "type": "Original Songs",
+        "songs": [
+            {
+                "name": "That Is How I Roll!",
+                "audioSources": [
+                    {
+                        "title": "That Is How I Roll!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/6/62/That_Is_How_I_Roll%21.ogg"
+                    },
+                    {
+                        "title": "That Is How I Roll! -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/57/That_Is_How_I_Roll%21_-instrumental.ogg"
+                    },
+                    {
+                        "title": "That Is How I Roll! (THE THIRD 1st Live)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/83/That_Is_How_I_Roll%21_%28THE_THIRD_1st_Live%29.ogg"
+                    },
+                    {
+                        "title": "That Is How I Roll! -Encore Version- (THE THIRD 1st Live)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/06/That_Is_How_I_Roll%21_-Encore_Version-_%28THE_THIRD_1st_Live_%29.ogg"
+                    },
+                    {
+                        "title": "That Is How I Roll! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/9/92/That_Is_How_I_Roll%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "True color",
+                "audioSources": [
+                    {
+                        "title": "True color\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/1/12/True_color.ogg"
+                    },
+                    {
+                        "title": "True color -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/9/95/True_color_-instrumental.ogg"
+                    },
+                    {
+                        "title": "True color (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/a/a2/True_color_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Scarlet Sky",
+                "audioSources": [
+                    {
+                        "title": "Scarlet Sky\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/6/6b/Scarlet_Sky.ogg"
+                    },
+                    {
+                        "title": "Scarlet Sky -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/50/Scarlet_Sky_-Instrumental-.ogg"
+                    },
+                    {
+                        "title": "Scarlet Sky (THE THIRD 1st Live)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/32/Scarlet_Sky_%28THE_THIRD_1st_Live%29.ogg"
+                    },
+                    {
+                        "title": "Scarlet Sky (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/e9/Scarlet_Sky_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Hey-day Capriccio",
+                "audioSources": [
+                    {
+                        "title": "Hey-day Capriccio\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/e1/Hey-day_Capriccio.ogg"
+                    },
+                    {
+                        "title": "Hey-day Capriccio -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/00/Hey-day_Capriccio_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Hey-day Capriccio (THE THIRD 1st Live)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/6/63/Hey-day_Capriccio_%28THE_THIRD_1st_Live%29.ogg"
+                    },
+                    {
+                        "title": "Hey-day Capriccio (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/2/26/Hey-day_Capriccio_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Y.O.L.O!!!!!",
+                "audioSources": [
+                    {
+                        "title": "Y.O.L.O!!!!!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/cb/Y.O.L.O%21%21%21%21%21.ogg"
+                    },
+                    {
+                        "title": "Y.O.L.O!!!!! -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/a/a6/Y.O.L.O%21%21%21%21%21_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Y.O.L.O!!!!! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/9/91/Y.O.L.O%21%21%21%21%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Jamboree! Journey!",
+                "audioSources": [
+                    {
+                        "title": "Jamboree! Journey!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/1/1c/Jamboree%21_Journey%21.ogg"
+                    },
+                    {
+                        "title": "Jamboree! Journey! -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/1/1a/Jamboree%21_Journey%21_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Jamboree! Journey! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/9/95/Jamboree%21_Journey%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "COMIC PANIC!!!",
+                "audioSources": [
+                    {
+                        "title": "COMIC PANIC!!!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/ce/COMIC_PANIC%21%21%21.ogg"
+                    },
+                    {
+                        "title": "COMIC PANIC!!! -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/3b/COMIC_PANIC%21%21%21_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "COMIC PANIC!!! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/3a/COMIC_PANIC%21%21%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Tsunagu, Soramoyou",
+                "audioSources": [
+                    {
+                        "title": "Tsunagu, Soramoyou\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/f/ff/Tsunagu%2C_Soramoyou.ogg"
+                    },
+                    {
+                        "title": "Tsunagu, Soramoyou -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/4/44/Tsunagu%2C_Soramoyou_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Tsunagu, Soramoyou (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/07/Tsunagu%2C_Soramoyou_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Rumbling Memory",
+                "audioSources": [
+                    {
+                        "title": "Rumbling Memory\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/2/2b/Rumbling_Memory.ogg"
+                    },
+                    {
+                        "title": "Rumbling Memory -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/7/7d/Rumbling_Memory_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Rumbling Memory (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/9/9b/Rumbling_Memory_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "ON YOUR MARK",
+                "audioSources": [
+                    {
+                        "title": "ON YOUR MARK\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/5b/ON_YOUR_MARK.ogg"
+                    },
+                    {
+                        "title": "ON YOUR MARK -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/a/a1/ON_YOUR_MARK_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "ON YOUR MARK (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/4/4e/ON_YOUR_MARK_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Itsumo Doori no Brand new days",
+                "audioSources": [
+                    {
+                        "title": "Itsumo Doori no Brand new days\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/c3/Itsumo_Doori_no_Brand_new_days.ogg"
+                    },
+                    {
+                        "title": "Itsumo Doori no Brand new days -Instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/8f/Itsumo_Doori_no_Brand_new_days_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Itsumo Doori no Brand new days (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/e7/Itsumo_Doori_no_Brand_new_days_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Easy come, Easy go!",
+                "audioSources": [
+                    {
+                        "title": "Easy come, Easy go!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/54/Easy_come%2C_Easy_go%21.ogg"
+                    },
+                    {
+                        "title": "Easy come, Easy go! -Instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/52/Easy_come%2C_Easy_go%21_-instrumental.ogg"
+                    },
+                    {
+                        "title": "Easy come, Easy go! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/07/Easy_come%2C_Easy_go%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Sasanqua",
+                "audioSources": [
+                    {
+                        "title": "Sasanqua\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/cf/Sasanqua.ogg"
+                    },
+                    {
+                        "title": "Sasanqua -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/2/20/Sasanqua_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Sasanqua (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/4/47/Sasanqua_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "I love your way!",
+                "audioSources": [
+                    {
+                        "title": "I love your way!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/9/99/I_love_your_way%21.ogg"
+                    },
+                    {
+                        "title": "I love your way! -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/59/I_love_your_way%21_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "I love your way! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/81/I_love_your_way%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "RED RED RED",
+                "audioSources": [
+                    {
+                        "title": "RED RED RED\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/c2/RED_RED_RED.ogg"
+                    },
+                    {
+                        "title": "RED RED RED -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/36/RED_RED_RED_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "RED RED RED (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/8e/RED_RED_RED_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "I knew it!",
+                "audioSources": [
+                    {
+                        "title": "I knew it!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/4/43/I_knew_it%21.ogg"
+                    },
+                    {
+                        "title": "I knew it! -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/6/68/I_knew_it%21_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "I knew it! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/9/93/I_knew_it%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "ONE OF US",
+                "audioSources": [
+                    {
+                        "title": "ONE OF US\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/33/ONE_OF_US.ogg"
+                    },
+                    {
+                        "title": "ONE OF US -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/1/1a/ONE_OF_US_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "ONE OF US (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/0d/ONE_OF_US_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "SENSENFUKOKU",
+                "audioSources": [
+                    {
+                        "title": "SENSENFUKOKU\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/ca/SENSENFUKOKU.ogg"
+                    },
+                    {
+                        "title": "SENSENFUKOKU -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/ea/SENSENFUKOKU_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "SENSENFUKOKU (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/a/af/SENSENFUKOKU_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Kanayume",
+                "audioSources": [
+                    {
+                        "title": "Kanayume\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/06/Kanayume.ogg"
+                    },
+                    {
+                        "title": "Kanayume (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/89/Kanayume_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Trouble Joyful!!",
+                "audioSources": [
+                    {
+                        "title": "Trouble Joyful!! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/d/d6/Trouble_Joyful%21%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Off we go.",
+                "audioSources": [
+                    {
+                        "title": "Off we go. (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/58/Off_we_go._%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Sakura Zensen",
+                "audioSources": [
+                    {
+                        "title": "Sakura Zensen (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/ed/Sakura_Zensen_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "SWITCH ON NOW",
+                "audioSources": [
+                    {
+                        "title": "SWITCH ON NOW (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/d/dc/SWITCH_ON_NOW_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Dokusoushuusa",
+                "audioSources": [
+                    {
+                        "title": "Dokusoushuusa (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/d/d7/Dokusoushuusa_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Punchline Halloween!!!",
+                "audioSources": [
+                    {
+                        "title": "Punchline Halloween!!! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/3a/Punchline_Halloween%21%21%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Cover Songs",
+        "songs": [
+            {
+                "name": "Don't say \"lazy\"",
+                "audioSources": [
+                    {
+                        "title": "Don't say \"lazy\"\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/cc/Don%27t_say_%22lazy%22.ogg"
+                    },
+                    {
+                        "title": "Don't say \"lazy\" (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/c7/Don%27t_say_lazy_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Karma",
+                "audioSources": [
+                    {
+                        "title": "Karma (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/59/Karma_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Butter-Fly",
+                "audioSources": [
+                    {
+                        "title": "Butter-Fly (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/b/bc/Butter-Fly_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Great escape",
+                "audioSources": [
+                    {
+                        "title": "great escape (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/e8/Great_escape_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Asu no Yozora Shoukaihan",
+                "audioSources": [
+                    {
+                        "title": "Asu no Yozora Shoukaihan\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/2/27/Asu_no_Yozora_Shoukaihan.ogg"
+                    },
+                    {
+                        "title": "Asu no Yozora Shoukaihan (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/b/b8/Asu_no_Yozora_Shoukaihan_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "READY STEADY GO",
+                "audioSources": [
+                    {
+                        "title": "READY STEADY GO\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/6/69/READY_STEADY_GO.ogg"
+                    },
+                    {
+                        "title": "READY STEADY GO (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/0b/READY_STEADY_GO_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Redo",
+                "audioSources": [
+                    {
+                        "title": "Redo\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/0a/Redo.ogg"
+                    },
+                    {
+                        "title": "Redo (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/4/40/Redo_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Pride Kakumei",
+                "audioSources": [
+                    {
+                        "title": "Pride Kakumei\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/ef/Pride_Kakumei.ogg"
+                    },
+                    {
+                        "title": "Pride Kakumei (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/7/77/Pride_Kakumei_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Imagination",
+                "audioSources": [
+                    {
+                        "title": "Imagination (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/1/13/Imagination_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Reach Out To The Truth",
+                "audioSources": [
+                    {
+                        "title": "Reach Out To The Truth (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/32/Reach_Out_To_The_Truth_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Lost One no Goukoku",
+                "audioSources": [
+                    {
+                        "title": "Lost One no Goukoku\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/d/d6/Lost_One_no_Goukoku.ogg"
+                    },
+                    {
+                        "title": "Lost One no Goukoku (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/6/67/Lost_One_no_Goukoku_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Crow Song",
+                "audioSources": [
+                    {
+                        "title": "Crow Song (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/7/71/Crow_Song_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Shunkan Sentimental",
+                "audioSources": [
+                    {
+                        "title": "Shunkan Sentimental\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/b/b4/Shunkan_Sentimental.ogg"
+                    },
+                    {
+                        "title": "Shunkan Sentimental (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/88/Shunkan_Sentimental_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Rashisa",
+                "audioSources": [
+                    {
+                        "title": "Rashisa (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/b/b7/Rashisa_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Goya no Machiawase",
+                "audioSources": [
+                    {
+                        "title": "Goya no Machiawase (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/50/Goya_no_Machiawase_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Aoi Shiori",
+                "audioSources": [
+                    {
+                        "title": "Aoi Shiori\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/1/19/Aoi_Shiori.ogg"
+                    },
+                    {
+                        "title": "Aoi Shiori (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/38/Aoi_Shiori_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Ai no Scenario",
+                "audioSources": [
+                    {
+                        "title": "Ai no Scenario (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/2/20/Ai_no_Scenario_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Amanojaku",
+                "audioSources": [
+                    {
+                        "title": "Amanojaku\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/b/bb/Amanojaku.ogg"
+                    },
+                    {
+                        "title": "Amanojaku (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/c9/Amanojaku_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Inferno",
+                "audioSources": [
+                    {
+                        "title": "Inferno\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/86/Inferno.ogg"
+                    },
+                    {
+                        "title": "Inferno (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/9/9d/Inferno_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Roki",
+                "audioSources": [
+                    {
+                        "title": "Roki\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/d/de/Roki.ogg"
+                    },
+                    {
+                        "title": "Roki (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/b/bc/Roki_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Kasabuta",
+                "audioSources": [
+                    {
+                        "title": "Kasabuta (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/8c/Kasabuta_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Rolling star",
+                "audioSources": [
+                    {
+                        "title": "Rolling star (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/8b/Rolling_star_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Northern lights",
+                "audioSources": [
+                    {
+                        "title": "Northern lights (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/e4/Northern_lights_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Samurai Heart (Some Like It Hot!!)",
+                "audioSources": [
+                    {
+                        "title": "Samurai Heart (Some Like It Hot!!)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/2/25/Samurai_Heart_%28Some_Like_It_Hot%21%21%29.ogg"
+                    },
+                    {
+                        "title": "Samurai Heart (Some Like It Hot!!) (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/c8/Samurai_Heart_%28Some_Like_It_Hot%21%21%29_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "How to Sekai Seifuku",
+                "audioSources": [
+                    {
+                        "title": "How to Sekai Seifuku (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/b/b3/How_to_Sekai_Seifuku_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Humanoid",
+                "audioSources": [
+                    {
+                        "title": "Humanoid (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/2/25/Humanoid_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Venom",
+                "audioSources": [
+                    {
+                        "title": "Venom\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/c0/Venom.ogg"
+                    },
+                    {
+                        "title": "Venom (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/a/ad/Venom_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Listen!!",
+                "audioSources": [
+                    {
+                        "title": "Listen!! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/7/75/Listen%21%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Mental Chainsaw",
+                "audioSources": [
+                    {
+                        "title": "Mental Chainsaw (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/8/8a/Mental_Chainsaw_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Tokyo Wonder.",
+                "audioSources": [
+                    {
+                        "title": "Tokyo Wonder. (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/4/41/Tokyo_Wonder._%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Abnormalize",
+                "audioSources": [
+                    {
+                        "title": "abnormalize (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/4/44/Abnormalize_%28Game_Version%29.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Other Songs (Original)",
+        "songs": [
+            {
+                "name": "Quintuple☆Smile",
+                "audioSources": [
+                    {
+                        "title": "Quintuple☆Smile\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/7/7d/Quintuple%E2%98%86Smile.ogg"
+                    },
+                    {
+                        "title": "Quintuple☆Smile -Instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/4/46/Quintuple%E2%98%86Smile_-Instrumental-.ogg"
+                    },
+                    {
+                        "title": "Quintuple☆Smile (Game version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/ee/Quintuple%E2%98%86Smile_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Picotto! Papitto!! GARUPA☆PICO!!!",
+                "audioSources": [
+                    {
+                        "title": "Picotto! Papitto!! GARUPA☆PICO!!!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/a/aa/Picotto%21_Papitto%21%21_GARUPA%E2%98%86PICO%21%21%21.ogg"
+                    },
+                    {
+                        "title": "Picotto! Papitto!! GARUPA☆PICO!!! -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/e9/Picotto%21_Papitto%21%21_GARUPA%E2%98%86PICO%21%21%21_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Picotto! Papitto!! GARUPA☆PICO!!! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/f/f4/Picotto%21_Papitto%21%21_GARUPA%E2%98%86PICO%21%21%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Hitori Janain Dakara",
+                "audioSources": [
+                    {
+                        "title": "Hitori Janain Dakara\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/1/1f/Hitori_Janain_Dakara.ogg"
+                    },
+                    {
+                        "title": "Hitori Janain Dakara -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/0a/Hitori_Janain_Dakara_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Hitori Janain Dakara (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/06/Hitori_Janain_Dakara_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Ohmori Icchou! Garupa☆Pico",
+                "audioSources": [
+                    {
+                        "title": "Ohmori Icchou! Garupa☆Pico\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/34/Ohmori_Icchou%21_Garupa%E2%98%86Pico.ogg"
+                    },
+                    {
+                        "title": "Ohmori Icchou! Garupa☆Pico -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/b/bb/Ohmori_Icchou%21_Garupa%E2%98%86Pico_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Ohmori Icchou! Garupa☆Pico (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/ed/Ohmori_Icchou%21_Garupa%E2%98%86Pico_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "TWiNKLE CiRCLE",
+                "audioSources": [
+                    {
+                        "title": "TWiNKLE CiRCLE\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/9/92/TWiNKLE_CiRCLE.ogg"
+                    },
+                    {
+                        "title": "TWiNKLE CiRCLE -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/d/d2/TWiNKLE_CiRCLE_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "TWiNKLE CiRCLE (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/a/a9/TWiNKLE_CiRCLE_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Kyouen Red x Violet",
+                "audioSources": [
+                    {
+                        "title": "Kyouen Red x Violet\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/c7/Kyouen_Red_x_Violet.ogg"
+                    },
+                    {
+                        "title": "Kyouen Red x Violet -instrumental-\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/a/ae/Kyouen_Red_x_Violet_-instrumental-.ogg"
+                    },
+                    {
+                        "title": "Kyouen Red x Violet (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/6/6f/Kyouen_Red_x_Violet_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "PICO tarumono, FEVER!",
+                "audioSources": [
+                    {
+                        "title": "PICO tarumono, FEVER!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/7/72/PICO_tarumono%2C_FEVER%21.ogg"
+                    },
+                    {
+                        "title": "PICO tarumono, FEVER! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/0/0f/PICO_tarumono%2C_FEVER%21_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "CiRCLE THANKS MUSiC♪",
+                "audioSources": [
+                    {
+                        "title": "CiRCLE THANKS MUSiC♪\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/32/CiRCLE_THANKS_MUSiC%E2%99%AA.ogg"
+                    },
+                    {
+                        "title": "CiRCLE THANKS MUSiC♪ (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/7/71/CiRCLE_THANKS_MUSiC%E2%99%AA_%28Game_Version%29.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Other Songs (Cover)",
+        "songs": [
+            {
+                "name": "Tentai Kansoku",
+                "audioSources": [
+                    {
+                        "title": "Tentai Kansoku (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/e/e8/Tentai_Kansoku_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Hare Hare Yukai",
+                "audioSources": [
+                    {
+                        "title": "Hare Hare Yukai (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/6/64/Hare_Hare_Yukai_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Kakumei Dualism",
+                "audioSources": [
+                    {
+                        "title": "Kakumei Dualism\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/5b/Kakumei_Dualism.ogg"
+                    },
+                    {
+                        "title": "Kakumei Dualism (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/56/Kakumei_Dualism_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "GO!!!",
+                "audioSources": [
+                    {
+                        "title": "GO!!!\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/6/6e/GO%21%21%21.ogg"
+                    },
+                    {
+                        "title": "GO!!! (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/54/GO%21%21%21_Game_Version.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Dramaturgy",
+                "audioSources": [
+                    {
+                        "title": "Dramaturgy\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/58/Dramaturgy.ogg"
+                    },
+                    {
+                        "title": "Dramaturgy (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/3/3d/Dramaturgy_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Goodbye Sengen",
+                "audioSources": [
+                    {
+                        "title": "Goodbye Sengen (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/5/5c/Goodbye_Sengen_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Preserved Roses",
+                "audioSources": [
+                    {
+                        "title": "Preserved Roses (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/2/21/Preserved_Roses_%28Game_Version%29.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Extra Songs",
+        "songs": [
+            {
+                "name": "COLORS",
+                "audioSources": [
+                    {
+                        "title": "COLORS (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/4/4b/COLORS_%28Game_Version%29.ogg"
+                    }
+                ]
+            },
+            {
+                "name": "Yuushou",
+                "audioSources": [
+                    {
+                        "title": "Yuushou feat. Afterglow (Game Version)\n",
+                        "url": "https://static.wikia.nocookie.net/bandori/images/c/cc/Yuushou_%28Game_Version%29.ogg"
+                    }
+                ]
+            }
+        ]
+    }
+]
