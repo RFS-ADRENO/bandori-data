@@ -1,3 +1,5 @@
+# updated: 11/05/2022
+
 # bandori-data
 Audio Data from https://bandori.fandom.com/wiki/
 Cards Data from https://bandori.party/

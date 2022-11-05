@@ -1,5 +1,71 @@
 [
   {
+    "id": 2104,
+    "attribute": "Cool",
+    "rarity": 4,
+    "name": "Precious birthday!",
+    "image": "https://i.bandori.party/u/c/2104Maya-Yamato-Cool-Precious-birthday-WB6LxV.png",
+    "image_trained": "https://i.bandori.party/u/c/a/2104Maya-Yamato-Cool-Precious-birthday-J7jZMe.png",
+    "art": "https://i.bandori.party/u/c/art/2104Maya-Yamato-Cool-Precious-birthday-gRk2od.png",
+    "art_trained": "https://i.bandori.party/u/c/art/a/2104Maya-Yamato-Cool-Precious-birthday-tZDabf.png",
+    "skill_name": "Exciting Same Day"
+  },
+  {
+    "id": 2103,
+    "attribute": "Pure",
+    "rarity": 4,
+    "name": "The Admired One",
+    "image": "https://i.bandori.party/u/c/2103Tsukushi-Futaba-Pure-The-Admired-One-LH3PRv.png",
+    "image_trained": "https://i.bandori.party/u/c/a/2103Tsukushi-Futaba-Pure-The-Admired-One-uuxTju.png",
+    "art": "https://i.bandori.party/u/c/art/2103Tsukushi-Futaba-Pure-The-Admired-One-2jej9N.png",
+    "art_trained": "https://i.bandori.party/u/c/art/a/2103Tsukushi-Futaba-Pure-The-Admired-One-JV2aks.png",
+    "skill_name": "Futaba"
+  },
+  {
+    "id": 2102,
+    "attribute": "Pure",
+    "rarity": 4,
+    "name": "Welcome To Another World!",
+    "image": "https://i.bandori.party/u/c/2102Mashiro-Kurata-Pure-Welcome-To-Another-World-Lcf9vJ.png",
+    "image_trained": "https://i.bandori.party/u/c/a/2102Mashiro-Kurata-Pure-Welcome-To-Another-World-jXqxLM.png",
+    "art": "https://i.bandori.party/u/c/art/2102Mashiro-Kurata-Pure-Welcome-To-Another-World-8DzvJi.png",
+    "art_trained": "https://i.bandori.party/u/c/art/a/2102Mashiro-Kurata-Pure-Welcome-To-Another-World-BDIHQa.png",
+    "skill_name": "The Optimistic One"
+  },
+  {
+    "id": 2101,
+    "attribute": "Pure",
+    "rarity": 3,
+    "name": "The Demon of Righteousness",
+    "image": "https://i.bandori.party/u/c/2101Rui-Yashio-Pure-The-Demon-of-Righteousness-Fk0mFL.png",
+    "image_trained": "https://i.bandori.party/u/c/a/2101Rui-Yashio-Pure-The-Demon-of-Righteousness-JhuSyK.png",
+    "art": "https://i.bandori.party/u/c/art/2101Rui-Yashio-Pure-The-Demon-of-Righteousness-iCPcco.png",
+    "art_trained": "https://i.bandori.party/u/c/art/a/2101Rui-Yashio-Pure-The-Demon-of-Righteousness-3cyyV8.png",
+    "skill_name": "Rightful Argumentator"
+  },
+  {
+    "id": 2100,
+    "attribute": "Power",
+    "rarity": 3,
+    "name": "This Is My Spiciest Dish",
+    "image": "https://i.bandori.party/u/c/2100Nanami-Hiromachi-Power-This-Is-My-Spiciest-Dish-ZzDyRm.png",
+    "image_trained": "https://i.bandori.party/u/c/a/2100Nanami-Hiromachi-Power-This-Is-My-Spiciest-Dish-BMLvKD.png",
+    "art": "https://i.bandori.party/u/c/art/2100Nanami-Hiromachi-Power-This-Is-My-Spiciest-Dish-3kFi88.png",
+    "art_trained": "https://i.bandori.party/u/c/art/a/2100Nanami-Hiromachi-Power-This-Is-My-Spiciest-Dish-iNPhPR.png",
+    "skill_name": "The Spicy One"
+  },
+  {
+    "id": 2099,
+    "attribute": "Power",
+    "rarity": 3,
+    "name": "Friends With Demons in Seconds",
+    "image": "https://i.bandori.party/u/c/2099Touko-Kirigaya-Power-Friends-With-Demons-in-Seconds-VSAmBk.png",
+    "image_trained": "https://i.bandori.party/u/c/a/2099Touko-Kirigaya-Power-Friends-With-Demons-in-Seconds-CzU5rY.png",
+    "art": "https://i.bandori.party/u/c/art/2099Touko-Kirigaya-Power-Friends-With-Demons-in-Seconds-udrL97.png",
+    "art_trained": "https://i.bandori.party/u/c/art/a/2099Touko-Kirigaya-Power-Friends-With-Demons-in-Seconds-Y05t3k.png",
+    "skill_name": "Skill <Joyful Person>"
+  },
+  {
     "id": 2098,
     "attribute": "Pure",
     "rarity": 4,
